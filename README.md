@@ -1,1 +1,2 @@
-# rc-gps-car
+# The Cool Car
+This was a group project for the Digital Embedded Systems Unit at UWA. Its purpose is to take in a coordinates (longitude and latitude) and drive itself to those coordinates and back to you. It assumes an obstacle free environment.
